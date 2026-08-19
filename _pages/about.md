@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I received my Bachelor's degree from the School of Artificial Intelligence at Sun Yat-sen University and will join the School of Artificial Intelligence at Shanghai Jiao Tong University as a Ph.D. student in Fall 2026. I am currently an intern at <a href="https://noitomrobotics.com/">Noitom Robotics</a>, where I work with <a href="https://taohuang13.github.io/">Tao Huang</a> on a humanoid robot tennis project.
+I received my B.S. from the School of Artificial Intelligence at Sun Yat-sen University and will join the School of Artificial Intelligence at Shanghai Jiao Tong University as a Ph.D. student in Fall 2026. I am currently an intern at <a href="https://noitomrobotics.com/">Noitom Robotics</a>, where I work with <a href="https://taohuang13.github.io/">Tao Huang</a> on a humanoid robot tennis project.
 
 My research interests include:
 - Humanoid Whole Body Control
