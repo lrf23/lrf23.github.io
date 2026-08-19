@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Home Page of Ruofei Liu"
-description              : "home page"
+description              : "SYSU -> SJTU ~ AI & Robotics"
 repository               : "lrf23/lrf23.github.io"
 google_scholar_stats_use_cdn : false
 
@@ -23,7 +23,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Ruofei Liu"
   avatar           : "images/android-chrome-512x512.png"
-  bio              : "上海交通大学"
+  bio              : "SJTU"
   location         : "广东 深圳"
   employer         : #"Hefei General Machinery Research Institute"
   pubmed           : 

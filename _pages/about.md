@@ -17,20 +17,20 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-我本科毕业于中山大学人工智能学院，并将于2026年秋季入学上海交通大学人工智能学院攻读博士学位。
+I received my bachelor's degree from the School of Artificial Intelligence, Sun Yat-sen University, and will begin my Ph.D. studies at the School of Artificial Intelligence, Shanghai Jiao Tong University in Fall 2026. I am currently an intern at <a href="https://noitomrobotics.com/">Noitom Robotics</a>, collaborating with <a href="https://taohuang13.github.io/">Tao Huang</a> on a humanoid tennis project.
 
-我的研究领域包括：
+My research interests include:
 - Humanoid Whole Body Control
 - Humanoid for Sports
-- Humanoid Loco-manipulation
+- Humanoid Loco-Manipulation
 - Humanoid-Human Interaction
   
 
 
 <span class='anchor' id='-xl'></span>
 
-# 🎓 学历
-- *2026.09 - 至今*, <a href="https://www.sjtu.edu.cn/"><img class="svg" src="/images/sjtu.png" width="23pt" alt="SJTU"></a> 上海交通大学 人工智能学院, 博士
-- *2022.09 - 2026.06*, <a href="https://sai.sysu.edu.cn/"><img class="svg" src="/images/sysu.JPG" width="20pt" alt="SYSU"></a> 中山大学 人工智能学院, 本科
+# 🎓 Education
+- *2026.09 - Present*, <a href="https://www.sjtu.edu.cn/"><img class="svg" src="/images/sjtu.png" width="23pt" alt="SJTU"></a> School of Artificial Intelligence, Shanghai Jiao Tong University, Ph.D.
+- *2022.09 - 2026.06*, <a href="https://sai.sysu.edu.cn/"><img class="svg" src="/images/sysu.JPG" width="20pt" alt="SYSU"></a> School of Artificial Intelligence, Sun Yat-sen University, B.S.
  
 <span class='anchor' id='-lwzl'></span>
