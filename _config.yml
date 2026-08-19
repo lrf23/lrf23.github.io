@@ -6,9 +6,9 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "唐健"
-description              : "电磁无损检测"
-repository               : "tangjyan/tangjyan.github.io"
+title                    : "Home Page of Ruofei Liu"
+description              : "home page"
+repository               : "lrf23/lrf23.github.io"
 google_scholar_stats_use_cdn : false
 
 # google analytics
@@ -21,10 +21,10 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "唐健"
+  name             : "刘若飞"
   avatar           : "images/android-chrome-512x512.png"
-  bio              : "华中科技大学"
-  location         : "湖北 武汉"
+  bio              : "上海交通大学"
+  location         : "广东 深圳"
   employer         : #"Hefei General Machinery Research Institute"
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=WMkMTb4AAAAJ"
