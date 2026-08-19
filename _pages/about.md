@@ -30,7 +30,7 @@ redirect_from:
 <span class='anchor' id='-xl'></span>
 
 # 🎓 学历
-- *2026.09 - 至今*, <a href="https://www.sjtu.edu.cn/"><img class="svg" src="/images/sjtu.png" width="23pt" alt="SJTU"></a> 上海交通大学 人工智能学院, 上海, 博士
-- *2022.09 - 2026.06*, <a href="https://sai.sysu.edu.cn/"><img class="svg" src="/images/sysu.JPG" width="20pt" alt="SYSU"></a> 中山大学 人工智能学院, 广东珠海, 本科
+- *2026.09 - 至今*, <a href="https://www.sjtu.edu.cn/"><img class="svg" src="/images/sjtu.png" width="23pt" alt="SJTU"></a> 上海交通大学 人工智能学院, 博士
+- *2022.09 - 2026.06*, <a href="https://sai.sysu.edu.cn/"><img class="svg" src="/images/sysu.JPG" width="20pt" alt="SYSU"></a> 中山大学 人工智能学院, 本科
  
 <span class='anchor' id='-lwzl'></span>
