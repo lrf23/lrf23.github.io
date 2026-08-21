@@ -41,7 +41,15 @@ My research interests include:
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv 2026</div><img src='images/adapt2026.jpg' alt="AdaPT" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
--	Tao Huang, `Ruofei Liu`, Xuchen Tang, Xinyin Zhang, Junli Ren, Huayi Wang, Feiyu Jia, Yukai Qi, Kangning Yin, Weishuai Zeng, Lipeng Chen, Xi Li, Ting Wu, Kailin Li, Ruoli Dai, Jingbo Wang, Lei Han, Jiangmiao Pang. Towards Professional Tennis Styles for Humanoid Robots with Adaptive Motion Planning and Tracking. *arXiv preprint arXiv:2608.20087*, 2026. (Equal contribution)
+Towards Professional Tennis Styles for Humanoid Robots with Adaptive Motion Planning and Tracking
+{: .paper-title}
+
+Tao Huang, `Ruofei Liu`, Xuchen Tang, Xinyin Zhang, Junli Ren, Huayi Wang, Feiyu Jia, Yukai Qi, Kangning Yin, Weishuai Zeng, Lipeng Chen, Xi Li, Ting Wu, Kailin Li, Ruoli Dai, Jingbo Wang, Lei Han, Jiangmiao Pang
+{: .paper-authors}
+
+*arXiv preprint arXiv:2608.20087*, 2026. (Equal contribution)
+{: .paper-venue}
+
 [[arXiv]](https://arxiv.org/abs/2608.20087) [[PDF]](https://arxiv.org/pdf/2608.20087) [[Project]](https://humanoidtennis.github.io/AdaPT) [[Code]](https://github.com/noitom-robotics/AdaPT)
 
 </div>
@@ -50,7 +58,15 @@ My research interests include:
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv 2026</div><img src='images/stablemimic2026.jpg' alt="StableMimic" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
--	Weihao Wu, Ming Huang, `Ruofei Liu`, Jinglei Nie, Shuxiang Guo, Chunying Li. StableMimic: Smooth Human-Like Recovery for Humanoid Motion Tracking - Learning Beyond the Tracking Distribution for Structured Post-Fall Behavior. *arXiv preprint arXiv:2608.02385*, 2026.
+StableMimic: Smooth Human-Like Recovery for Humanoid Motion Tracking - Learning Beyond the Tracking Distribution for Structured Post-Fall Behavior
+{: .paper-title}
+
+Weihao Wu, Ming Huang, `Ruofei Liu`, Jinglei Nie, Shuxiang Guo, Chunying Li
+{: .paper-authors}
+
+*arXiv preprint arXiv:2608.02385*, 2026.
+{: .paper-venue}
+
 [[arXiv]](https://arxiv.org/abs/2608.02385) [[PDF]](https://arxiv.org/pdf/2608.02385)
 
 </div>
@@ -59,7 +75,15 @@ My research interests include:
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE TGRS 2025</div><img src='images/fui_method.jpg' alt="FUI" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
--	`Ruofei Liu`, Dingcheng Ye, Jinzhao Xiang, Binyu Wang, Shenglei Wang, Rongjie Liu, Yanlong Chen, Wee Cheah, Keunyong Kim, Tingwei Cui. Machine Learning Boosts Robust Ocean Color Retrieval in Complex Atmosphere and Ocean Systems: Taking Coastal Forel-Ule Index Mapping as an Example. *IEEE Transactions on Geoscience and Remote Sensing*, 2025, 63: 1–17.
+Machine Learning Boosts Robust Ocean Color Retrieval in Complex Atmosphere and Ocean Systems: Taking Coastal Forel-Ule Index Mapping as an Example
+{: .paper-title}
+
+`Ruofei Liu`, Dingcheng Ye, Jinzhao Xiang, Binyu Wang, Shenglei Wang, Rongjie Liu, Yanlong Chen, Wee Cheah, Keunyong Kim, Tingwei Cui
+{: .paper-authors}
+
+*IEEE Transactions on Geoscience and Remote Sensing*, 2025, 63: 1–17.
+{: .paper-venue}
+
 [[IEEE]](https://ieeexplore.ieee.org/abstract/document/11250707) [[DOI]](https://doi.org/10.1109/TGRS.2025.3633299)
 
 </div>
